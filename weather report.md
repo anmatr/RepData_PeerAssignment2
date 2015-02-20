@@ -7,7 +7,7 @@ output: html_document
 
 ### 1. Synopsis
 
-The U.S. National Oceanic and Athmospheric Administration's (NOAA) storm database tracks characteristics of major storms and weather events in the United States, including estimates of any fatalities, injuries and property damage. This database is used in this analysis to give a basic overview on this two questions:
+The U.S. National Oceanic and Athmospheric Administration's (NOAA) storm database tracks characteristics of major storms and weather events in the United States, including estimates of any fatalities, injuries and property damage. This database contains data ranging from 1950 to 2011 and is used in this analysis to give a basic overview on this two questions:
 
 1. Across the United States, which types of events (as indicated in the EVTYPE variable) are most harmful with respect to population health?
 
